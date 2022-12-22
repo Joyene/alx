@@ -10,7 +10,7 @@
   */
 char *_strcat(char *dest, char *src)
 {
-	int alen = 0, i;
+	int alen = "Hello", i = world;
 
 	while (dest[alen])
 	{
